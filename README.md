@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=900&color=FF2BD6&center=true&vCenter=true&width=760&lines=%3E+2+a%C3%B1os+y+8+meses+haciendo+interfaces+que+se+sienten+bien;%3E+de+la+web+al+mobile%2C+sin+humo;%3E+Clean+Architecture+%2B+MVVM+%28y+el+padding+de+2px%29;%3E+hoy%3A+Melodya%2C+una+idea+que+se+vuelve+canci%C3%B3n" alt="2 años y 8 meses haciendo interfaces que se sienten bien"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=900&color=FF2BD6&center=true&vCenter=true&width=760&lines=%3E+2+a%C3%B1os+y+8+meses+haciendo+interfaces+que+se+sienten+bien;%3E+de+la+web+al+mobile%2C+sin+humo;%3E+Clean+Architecture+%2B+MVVM+%28y+el+padding+de+2px%29;%3E+hoy%3A+Kotlin+Multiplatform%2C+de+Android+a+iOS" alt="2 años y 8 meses haciendo interfaces que se sienten bien"/>
 </p>
 
 <p align="center">
   <a href="https://gabriel-ricardes-portafolio.netlify.app/Home"><img src="https://img.shields.io/badge/Portafolio-0a0316?style=for-the-badge&logo=netlify&logoColor=05d9e8" alt="Portafolio"/></a>
-  <a href="https://www.linkedin.com/in/gabriel-ricardes-578902214/"><img src="https://img.shields.io/badge/LinkedIn-0a0316?style=for-the-badge&logo=linkedin&logoColor=05d9e8" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-ricardes-578902214/"><img src="https://img.shields.io/badge/LinkedIn-0a0316?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzA1ZDllOCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMyAwLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NXY2LjI5ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NUMyMy4yIDI0IDI0IDIzLjIzIDI0IDIyLjI3VjEuNzNDMjQgLjc3IDIzLjIgMCAyMi4yMiAweiIvPjwvc3ZnPg==" alt="LinkedIn"/></a>
   <a href="mailto:gabrielricardes16@gmail.com"><img src="https://img.shields.io/badge/Escribime-0a0316?style=for-the-badge&logo=gmail&logoColor=ff2bd6" alt="Correo"/></a>
 </p>
 
@@ -24,7 +24,8 @@ Me obsesiona el detalle que nadie nota, me gusta romper cosas para entender cóm
 
 ## `[ 02 ]` Ahora mismo
 
-- 🎵 **[Melodya](https://github.com/melodya-org)**: una idea se vuelve canción. Desarrollo el **cliente Android** (Kotlin, Jetpack Compose, Clean Architecture, corrutinas y Flow, CI con lint y tests). Proyecto final de la tecnicatura.
+- 📱 **Proyecto final en equipo:** trabajo en el **cliente Android nativo** (Kotlin, Jetpack Compose, Clean Architecture, corrutinas y Flow, CI con lint y tests).
+- 🐻 **[Capricho](https://github.com/Gaburiiru/capricho)**: app de finanzas en **Kotlin Multiplatform** que corre en Android e iOS.
 - 🎓 Cerrando la tecnicatura en la UNLaM.
 - 🧪 Kotlin Multiplatform y React Native los fines de semana, para tener el combo nativo, web e híbrido.
 
@@ -125,10 +126,11 @@ Monitoreo y control centralizado de dispositivos HID Amico y servicios por empre
 
 | | Proyecto | Qué hace | Stack |
 |---|---|---|---|
-| 🎵 | [**Melodya**](https://github.com/melodya-org) | Una idea se vuelve canción. Cliente Android del proyecto final. | Kotlin · Compose · Clean Architecture |
+| 🐻 | [**Capricho**](https://github.com/Gaburiiru/capricho) | Finanzas sin culpa: antes de darte un gusto te dice cuánto pesa en tu sueldo y tus metas. Estrategia de ahorro con IA y 149 tests. | Kotlin Multiplatform · Compose Multiplatform · Supabase |
+| 🎵 | **Melodya** | Proyecto final en equipo para crear canciones a partir de una idea; trabajo en el cliente Android (repo privado). | Kotlin · Compose · Clean Architecture |
 | 🐾 | [**Paw Finder**](https://github.com/Gaburiiru/PawFinder) | Mascotas perdidas con mapa, geolocalización, cámara y Firebase. | Kotlin · Compose · Material 3 · Google Maps |
 | 💸 | **Cuida tu Bolsillo** | Finanzas personales con persistencia local, API externa y gráficos. | Kotlin · Compose |
-| 🎮 | **Games Break** | CRUD de juegos con RecyclerView y librerías externas. | Java · XML · Fragments |
+| 🎮 | [**Games Break**](https://github.com/Gaburiiru/Mi-primera-APP-Movil) | App para elegir intermediario de pago, con login y CRUD completo. | Java · XML · Fragments |
 | 🗺️ | [**API Mapa**](https://github.com/Gaburiiru/API-OpenStreetMaps) | Buscador de destinos sobre OpenStreetMap con marcadores propios. | React · Leaflet · Tailwind |
 | 🌦️ | [**API Clima**](https://github.com/Gaburiiru/api-react-clima) | Clima por ciudad, historial persistido y modo oscuro. | React · Context API · Tailwind |
 | 🛒 | [**API Tienda**](https://github.com/Gaburiiru/API-Tienda-React) | Catálogo con búsqueda, carrito y estado global. | React · Redux · Tailwind |
@@ -142,7 +144,7 @@ Monitoreo y control centralizado de dispositivos HID Amico y servicios por empre
 
 ## `[ 07 ]` Fuera del código
 
-🎸 Músico: grabo covers instrumentales y a veces compongo algo propio (por eso Melodya me toca de cerca).
+🎸 Músico: grabo covers instrumentales y a veces compongo algo propio.
 🎮 Gamer: de AAA a battle royales, y algún souls-like para sufrir por diversión.
 🎧 En loop: jazz, soul, R&B, rock, punk, reggae, lo-fi y hip-hop.
 
